@@ -35,10 +35,10 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 - https://www.edx.org/course/python-for-data-science
 
 ## Week 15-16 (Computer Vision)
-- https://www.coursera.org/learn/python-text-mining 
+- https://www.udacity.com/course/introduction-to-computer-vision--ud810 
 
 ## Week 17-18 (Natural Language Processing)
-- https://www.udacity.com/course/introduction-to-computer-vision--ud810
+- https://www.coursera.org/learn/python-text-mining
 
 ## Week 19 (Software Engineering Practices)
 - https://www.coursera.org/learn/software-processes
