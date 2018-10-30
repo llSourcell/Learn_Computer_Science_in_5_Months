@@ -45,3 +45,7 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 
 ## Week 20 (Blockchain)
 - Cryptocurrencies [here](https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL).
+- Create Ethereum & Blockchain Applications Using Solidity [here](https://www.udemy.com/solidity/).
+- Code Ethereum DApps [here](https://cryptozombies.io/).
+- Web3/Solidity [here](https://ethernaut.zeppelin.solutions/).
+
