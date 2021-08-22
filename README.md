@@ -15,7 +15,7 @@ You can find the video [here](https://youtu.be/-OvRVlqKebI).
 - https://www.edx.org/course/data-structures-fundamentals-uc-san-diegox-algs201x  
 
 ## Week 5-6 (Algorithms)
-- https://courses.csail.mit.edu/6.006/fall11/notes.shtml 
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm
 
 ## Week 7 (Databases)
 - https://www.coursera.org/learn/python-databases 
